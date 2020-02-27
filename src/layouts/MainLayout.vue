@@ -11,7 +11,7 @@
           @click="leftDrawerOpen = !leftDrawerOpen"
         />
 
-        <q-toolbar-title>Quasar App Test Again</q-toolbar-title>
+        <q-toolbar-title>Quasar App Test Again 123</q-toolbar-title>
 
         <div>Quasar v{{ $q.version  }}</div>
       </q-toolbar>
